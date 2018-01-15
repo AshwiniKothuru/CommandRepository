@@ -7,6 +7,7 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { ImageComponent } from './image/image.component';
 import { ContactComponent } from './contact/contact.component';
 import { ImageTextComponent } from './image-text/image-text.component';
+import { ServicesComponent } from './services/services.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { ImageTextComponent } from './image-text/image-text.component';
     NavBarComponent,
     ImageComponent,
     ContactComponent,
-    ImageTextComponent
+    ImageTextComponent,
+    ServicesComponent
   ],
   imports: [
     BrowserModule

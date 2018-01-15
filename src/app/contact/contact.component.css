@@ -1,6 +1,16 @@
 footer{
-    background-color: grey
+    background-color: grey;
 }
-li{
-    
+id{
+font-size: 30;
+
+}
+list-group{
+    list-style-type: none;  
+     
+}
+.col-md-4 .list-unstyled .bold{
+    font-weight: bold;
+    font-size: medium;
+    text-decoration-color: chocolate;
 }
